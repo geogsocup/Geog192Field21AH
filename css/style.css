@@ -60,6 +60,36 @@ h5{
     z-index: 0;
 }
 
+.pos-abs{
+	position: absolute;
+}
+
+.text-justify{
+	text-align: justify;
+}
+
+.full-height{
+	height: 100%;
+}
+
+.hehelang{
+	position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: #a0a0a0;
+}
+
+.margin-r0{
+	margin-right: 0px !important;
+}
+
+.good-item{
+	font-family: glacialIndifference;
+    font-size: 20px;
+    padding-right: 35px;
+    padding-top: 12px;
+}
+
 #treeImg{
 	width: 45%;
 	margin-left: 12px;
